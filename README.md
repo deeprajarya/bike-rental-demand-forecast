@@ -44,7 +44,7 @@ In recent years, data-driven decision making has become essential in various ind
 
 ### Installation
 
-1. Clone the repository: git clone https://github.com/deeprajarya/BikeRentalForecast.git
+1. Clone the repository: git clone https://github.com/deeprajarya/bike-rental-demand-forecast.git
 
 2. Navigate to the project directory: cd BikeRentalForecast
 
